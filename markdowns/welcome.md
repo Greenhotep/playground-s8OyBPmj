@@ -2,8 +2,6 @@
 
 I am Mr_Lawrence. I have recently stepped out of the classroom as a high school math teacher and am now a new developer in the .NET environment. I will initially be practicing my .NET framework skills, then branching out to topics centered about gaming, AI, and machine learning. 
 
-The source code is on [GitHub](https://github.com/TechDotIO/csharp-template), please feel free to come up with proposals to improve it.
-
 # Hands-on Demo
 
 @[Luke, how many stars are there in these galaxies?]({"stubs": ["Exercises/UniverseStub.cs"],"command": "TechIo.UniverseTest.VerifyCountAllStars"})
