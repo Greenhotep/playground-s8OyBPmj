@@ -55,7 +55,6 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     
 #Excellent...you should feel like a superhero now...in fact, you have a secret "lair" within the SharePoint farm called...drumroll...
                                                         CENTRAL ADMINISTRATION!!! 
-                                                
 ... ok, it's not the FORTRESS of SOLITUDE or whatever, but it can help you do a few things:
     
     1. admin site               4. manage farm
@@ -66,4 +65,5 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
 See [Microsoft](https://technet.microsoft.com/library/cc303422(v=office.16).aspx) for more info. They're the real MVP here. I'll be back with more. I think that'll be enough for now.
     
 I have a website as well. I've used it as a tutorial site for the longest, but I'll be converting it over to my portfolio site.
+
 [Check me out](www.greenhotep.com). I've just got my tutorial rates and some cube videos on there...FOR NOW... Anyway, PEACE.
