@@ -23,11 +23,27 @@ A FARM is the lowest level in the SharePoint topology (well...next to the hardwa
 
 CAPACITY PLANNING to the rescue. There are five stages: M.D.P.D.M. ... AHA!!! a palindrome!
     
-    1. Model:
-    2. Design:
-    3. PTO:
-    4. Deploy:
-    5. M&M:
+    1. Model: what data is used, how to get data, how do we use the data
+        a. what kinda WORKLOAD we talking here?
+        b. better check those IIS logs
+        c. gotta set some performance targets
+        AHHH!!! It's too much...or naw.
+        
+    2. Design: what TOPOLOGY? SAT word...LOOK IT UP!!! This is where you get the shiny stuff.
+        a. PROCESSOR is the brains of this operation
+        b. MEMORY is crucial...we're working with data here people!
+        c. NETWORKing is the key to life...and your farm
+        d. Where you gonna STORE that data when you finish?
+    
+    3. PTO: Pilot, Test, Optimize...yeah...they get one stage.
+        a. Piloting the model is not like the real thing...but we're talking about practice
+        b. TP.TE.TT - test plan, test environment, tests and tools...T's PET...memory mechanism...think about it
+        c. optimize...make it better...duh
+    
+    4. Deploy: get it to the people homie...SharePoint has a few deployment methods and tools...checkout their site below.
+    
+    5. Monitor & Maintain: just make sure the people do what they came to do in the farm, but just like a real farm, it may grow!!!
+    
 
 #Ok... we're set up and ready for production...wait...what if we want to practice first?
 
@@ -38,8 +54,7 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     3. PRO: Production - now you're playing with the big kids
     
 #Excellent...you should feel like a superhero now...in fact, you have a secret "lair" within the SharePoint farm called...drumroll...
-                                                
-                                                CENTRAL ADMINISTRATION!!! 
+                                               CENTRAL ADMINISTRATION!!! 
                                                 
 ... ok, it's not the FORTRESS of SOLITUDE or whatever, but it can help you do a few things:
     
@@ -50,4 +65,5 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     5. manage apps
     6. manage 3rd party tools
     7. create site collections and web applications
-    
+    See Microsoft for more info...they did make this daggum thing:
+        https://technet.microsoft.com/en-us/library/ff758645.aspx
