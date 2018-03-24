@@ -65,5 +65,5 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     
 See [Microsoft](https://technet.microsoft.com/library/cc303422(v=office.16).aspx) for more info. They're the real MVP here. I'll be back with more. I think that'll be enough for now.
     
-    I have a website as well. I've used it as a tutorial site for the longest, but I'll be converting it over to my portfolio site.
+I have a website as well. I've used it as a tutorial site for the longest, but I'll be converting it over to my portfolio site.
 [Check me out](www.greenhotep.com). I've just got my tutorial rates and some cube videos on there...FOR NOW... Anyway, PEACE.
