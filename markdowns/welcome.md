@@ -44,7 +44,6 @@ CAPACITY PLANNING to the rescue. There are five stages: M.D.P.D.M. ... AHA!!! a 
     
     5. Monitor & Maintain: just make sure the people do what they came to do in the farm, but just like a real farm, it may grow!!!
     
-
 #Ok... we're set up and ready for production...wait...what if we want to practice first?
 
 I'm sure you were thinking it, right? Er...well...just in case. There are three types of SharePoint environments:
@@ -58,15 +57,13 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
                                                 
 ... ok, it's not the FORTRESS of SOLITUDE or whatever, but it can help you do a few things:
     
-    1. admin site
-    2. manage web apps
-    3. back-up and restore
-    4. manage farm
-    5. manage apps
-    6. manage 3rd party tools
+    1. admin site               4. manage farm
+    2. manage web apps          5. manage apps
+    3. back-up and restore      6. manage 3rd party tools
     7. create site collections and web applications
+    
     See Microsoft for more info...they did make this daggum thing:
     ```markdown
-https://technet.microsoft.com/en-us/library/ff758645.aspx
+        https://technet.microsoft.com/en-us/library/ff758645.aspx
 ```
     
