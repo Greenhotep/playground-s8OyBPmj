@@ -13,11 +13,11 @@ A FARM is the lowest level in the SharePoint topology (well...next to the hardwa
     1. 1-tier farm: Small Farm - big things can come in small packages
         -WFE, APP, and DB are hosted on the same server --> one server
     
-    2. 2-tier farm: Medium Farm - for the medium appetite --> 
+    2. 2-tier farm: Medium Farm - for the medium appetite --> at least two servers
         -WFE & APP on one server...DB hosted separately
     
-    
-    3. 3-tier farm: Large Farm - 
+    3. 3-tier farm: Large Farm - for the big dogs --> dedicated servers for ALL
+        -WFE gets a server, APP gets a server, DB gets a server...sorry...no Oprah jokes here...that is all.
     
 #Ok cool...ummm, but how are we getting this ball on the roll?
 
