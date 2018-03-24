@@ -66,4 +66,4 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     6. manage 3rd party tools
     7. create site collections and web applications
     See Microsoft for more info...they did make this daggum thing:
-    ## markdown https://technet.microsoft.com/en-us/library/ff758645.aspx
+    [Microsoft](https://technet.microsoft.com/en-us/library/ff758645.aspx)
