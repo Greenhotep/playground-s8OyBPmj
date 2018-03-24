@@ -43,6 +43,7 @@ CAPACITY PLANNING to the rescue. There are five stages: M.D.P.D.M. ... AHA!!! a 
     4. Deploy: get it to the people homie...SharePoint has a few deployment methods and tools...checkout their site below.
     
     5. Monitor & Maintain: just make sure the people do what they came to do in the farm, but just like a real farm, it may grow!!!
+[Microsoft](https://technet.microsoft.com/en-us/library/ff758645.aspx) could tell you better than I could though. They did make this daggum thing
     
 #Ok... we're set up and ready for production...wait...what if we want to practice first?
 
@@ -62,8 +63,7 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     3. back-up and restore      6. manage 3rd party tools
     7. create site collections and web applications
     
-    See Microsoft for more info...they did make this daggum thing:
+See [Microsoft](https://technet.microsoft.com/library/cc303422(v=office.16).aspx) for more info. They're the real MVP here. I'll be back with more. I think that'll be enough for now.
     
-[Microsoft](https://technet.microsoft.com/en-us/library/ff758645.aspx)
-
-    
+    I have a website as well. I've used it as a tutorial site for the longest, but I'll be converting it over to my portfolio site.
+[Check me out](www.greenhotep.com). I've just got my tutorial rates and some cube videos on there...FOR NOW... Anyway, PEACE.
