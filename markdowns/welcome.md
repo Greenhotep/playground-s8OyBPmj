@@ -66,4 +66,4 @@ See [Microsoft](https://technet.microsoft.com/library/cc303422(v=office.16).aspx
     
 I have a website as well. I've used it as a tutorial site for the longest, but I'll be converting it over to my portfolio site.
 
-[Check me out](greenhotep.com). I've just got my tutorial rates and some cube videos on there...FOR NOW... Anyway, PEACE.
+Check me out at www.greenhotep.com. I've just got my blog posts and some cube videos on there...FOR NOW... Anyway, PEACE.
