@@ -54,7 +54,7 @@ I'm sure you were thinking it, right? Er...well...just in case. There are three 
     3. PRO: Production - now you're playing with the big kids
     
 #Excellent...you should feel like a superhero now...in fact, you have a secret "lair" within the SharePoint farm called...drumroll...
-                                               CENTRAL ADMINISTRATION!!! 
+                                                        CENTRAL ADMINISTRATION!!! 
                                                 
 ... ok, it's not the FORTRESS of SOLITUDE or whatever, but it can help you do a few things:
     
